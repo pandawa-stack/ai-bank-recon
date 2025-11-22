@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual env
+.env
+.venv/
+venv/
+env/
+
+# Streamlit
+.streamlit/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Data
+data/
+data_samples/*.xlsx~
+data_samples/*.tmp

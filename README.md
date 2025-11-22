@@ -42,6 +42,8 @@ It helps compare **bank statements** vs **book records** (general ledger / cashb
    ```bash
    pip install -r requirements.txt
 
+---
+
 ## 🧪 Sample Data
 
 You can try the app using the sample files in `data_samples/`:

@@ -41,3 +41,10 @@ It helps compare **bank statements** vs **book records** (general ledger / cashb
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+
+## 🧪 Sample Data
+
+You can try the app using the sample files in `data_samples/`:
+
+- `bank_statement_example.xlsx`
+- `book_record_example.xlsx`
